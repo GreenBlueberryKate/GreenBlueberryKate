@@ -1,16 +1,70 @@
 ## Hi there 👋
 
-<!--
-**GreenBlueberryKate/GreenBlueberryKate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
 
-Here are some ideas to get you started:
+I believe data is more than numbers — it reveals behavior, intention, and opportunity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bluberrybush is a collection of practical notebooks where I explore:
+
+📊 Exploratory Data Analysis (EDA)
+
+🤖 Machine Learning experiments
+
+📈 Regression models & predictions
+
+💼 Business insight case studies
+
+🐍 Python-based data workflows
+
+Each project represents a step forward in my growth as a data storyteller.
+
+📂 Current Projects 🎮 Steam Games — Business Insights
+
+Exploratory analysis of gaming trends, pricing patterns, and market behavior using real dataset exploration.
+
+📉 Telco Churn Analysis
+
+EDA focused on understanding customer churn signals and business-relevant metrics.
+
+👗 Zara Sales Prediction
+
+Machine-learning experimentation with predictive modeling and feature exploration.
+
+💰 Salary Prediction — Linear Regression
+
+Simple regression modeling to understand relationships between experience and salary outcomes.
+
+🌿 Swiss Plants Dataset
+
+Data exploration project combining curiosity, visualization, and analytical practice.
+
+🧰 Tech Stack
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib / Seaborn
+
+Scikit-learn
+
+Jupyter Notebook
+
+🌱 Philosophy
+
+This repository is intentionally iterative.
+Not every notebook is perfect — and that’s the point.
+Bluberrybush grows alongside my skills: learning publicly, improving continuously, and building a portfolio rooted in curiosity.
+
+⭐ Future Plans
+
+Add more business-focused case studies
+
+Improve model evaluation & documentation
+
+Introduce dashboards and storytelling visuals
+
+Expand into deeper machine-learning workflows
+

@@ -4,11 +4,15 @@ I believe data is more than numbers — it reveals behavior, intention, and oppo
 
 Bluberrybush is a collection of practical notebooks where I explore:
 
-📊 Exploratory Data Analysis (EDA)
-🤖 Machine Learning experiments
-📈 Regression models & predictions
-💼 Business insight case studies
-🐍 Python-based data workflows
+Exploratory Data Analysis (EDA)
+
+Machine Learning experiments
+
+Regression models & predictions
+
+Business insight case studies
+
+Python-based data workflows
 
 Each project represents a step forward in my growth as a data storyteller.
 
@@ -36,19 +40,4 @@ NumPy
 Matplotlib / Seaborn
 Scikit-learn
 Jupyter Notebook
-
-🌱 Philosophy
-
-This repository is intentionally iterative.
-Not every notebook is perfect — and that’s the point.
-Bluberrybush grows alongside my skills: learning publicly, improving continuously, and building a portfolio rooted in curiosity.
-
-⭐ Future Plans
-
-Add more business-focused case studies
-Improve model evaluation & documentation
-
-Introduce dashboards and storytelling visuals
-
-Expand into deeper machine-learning workflows
 

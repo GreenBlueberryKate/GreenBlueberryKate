@@ -16,8 +16,9 @@ Python-based data workflows
 
 Each project represents a step forward in my growth as a data storyteller.
 
-📂 Current Projects 🎮 Steam Games — Business Insights
+📂 Current Projects 
 
+🎮 Steam Games — Business Insights
 Exploratory analysis of gaming trends, pricing patterns, and market behavior using real dataset exploration.
 
 📉 Telco Churn Analysis

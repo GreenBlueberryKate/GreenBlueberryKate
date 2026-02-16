@@ -30,15 +30,17 @@ Machine-learning experimentation with predictive modeling and feature exploratio
 💰 Salary Prediction — Linear Regression
 Simple regression modeling to understand relationships between experience and salary outcomes.
 
-🌿 Swiss Plants Dataset
-Data exploration project combining curiosity, visualization, and analytical practice.
-
-🧰 Tech Stack
+Tech Stack
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib / Seaborn
+
 Scikit-learn
+
 Jupyter Notebook
 

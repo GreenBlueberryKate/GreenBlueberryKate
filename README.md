@@ -16,20 +16,6 @@ Python-based data workflows
 
 Each project represents a step forward in my growth as a data storyteller.
 
-📂 Current Projects 
-
-🎮 Steam Games — Business Insights
-Exploratory analysis of gaming trends, pricing patterns, and market behavior using real dataset exploration.
-
-📉 Telco Churn Analysis
-EDA focused on understanding customer churn signals and business-relevant metrics.
-
-👗 Zara Sales Prediction
-Machine-learning experimentation with predictive modeling and feature exploration.
-
-💰 Salary Prediction — Linear Regression
-Simple regression modeling to understand relationships between experience and salary outcomes.
-
 Tech Stack
 
 Python

@@ -1,47 +1,45 @@
-# 👋 Hi, I'm Kate
+# Hi, I'm Kate
 
-**Behavioral Data Analyst ** focused on exploratory analysis, statistical reasoning, and interpretable machine learning.
+**Data Analyst** with a focus on NLP, behavioral analysis and interpretable machine learning.
 
-I specialize in turning complex datasets into clear behavioral insights — exploring *how people interact with systems* through data.  
-My projects emphasize structured EDA, business interpretation, and transparent models rather than black-box predictions.
-
----
-
-## 🔎 What I Focus On
-
-- 📊 Behavioral Exploratory Data Analysis (EDA)
-- 📈 Statistical intuition & data storytelling
-- 🧠 Interpretable Machine Learning (Logistic Regression, explainable features)
-- 🧭 Turning data into actionable business insights
+I turn messy datasets into clear insights — whether that's understanding how people talk about products, why employees leave, or how commuters move through cities. My work emphasizes structured analysis, honest evaluation and models I can explain.
 
 ---
 
-## 📂 Featured Projects
+## What I work on
 
-### 🧑‍💼 Employee Attrition Analysis
-Behavioral investigation of workforce turnover combining EDA and logistic regression.  
-Key themes: engagement signals, commuting friction, and structural vs behavioral drivers.
-
-### 🚲 Bike Sharing Behavioral Analysis
-Explored routine mobility vs adaptive leisure patterns through temporal and environmental signals.
-
-### 🛒 Supermarket Sales Behavior
-Identified shopping rhythms and purchasing patterns using structured aggregation and visualization.
+- Natural Language Processing — sentiment analysis, topic modelling, text classification
+- Behavioral EDA — finding patterns in how people interact with systems
+- Interpretable ML — Logistic Regression, Naive Bayes, explainable features
+- Data storytelling — turning results into insights that mean something
 
 ---
 
-## 🛠️ Tools & Skills
+## Featured Projects
 
-**Python** · Pandas · Seaborn · Statistical EDA  
-Feature Engineering · Logistic Regression · Data Storytelling
+### Sephora Reviews — NLP Analysis
+Full NLP pipeline on 50,000 beauty product reviews. VADER sentiment analysis, Naive Bayes classification with class balancing, LDA topic modelling and visualisations.
+
+### Google Play Store Reviews — NLP Analysis
+End-to-end NLP on 12,495 app reviews. Compared rule-based VADER (58%) against Logistic Regression with TF-IDF bigrams (72%). Discovered 7 topics including pricing complaints and UI issues.
+
+### Employee Attrition Analysis
+Behavioral investigation of workforce turnover using EDA and logistic regression. Key themes: engagement signals, commuting friction and structural drivers.
+
+### Bike Sharing Behavioral Analysis
+Explored routine mobility vs leisure patterns through temporal and environmental signals.
+
+### Supermarket Sales Behavior
+Identified shopping rhythms and purchasing patterns using aggregation and visualisation.
 
 ---
 
-## 🎯 Current Goal
+## Tools
 
-Building portfolio-ready analyses that bridge exploratory analytics and interpretable modeling — with a strong focus on human behavior and decision-making.
+Python · Pandas · NLTK · Scikit-learn · Matplotlib · Seaborn
 
 ---
 
-📌 Always learning. Always questioning the data.
+## Current goal
 
+Growing my NLP skills through real-world projects while building a portfolio that shows both technical ability and business interpretation.

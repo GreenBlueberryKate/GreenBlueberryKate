@@ -1,6 +1,8 @@
-# Hi, I'm Kate
+# Hi, I'm Kate 👋
 
-**Data Analyst** with a focus on NLP, behavioral analysis and interpretable machine learning.
+**Junior Data Scientist & NLP Practitioner** with 5+ years of enterprise data experience.  
+I specialise in turning unstructured text and complex datasets into clear, actionable insights.  
+Based in Switzerland
 
 I turn messy datasets into clear insights — whether that's understanding how people talk about products, why employees leave, or how commuters move through cities. My work emphasizes structured analysis, honest evaluation and models I can explain.
 

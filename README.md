@@ -1,6 +1,6 @@
 # Hi, I'm Kate 👋
 
-**Junior Data Scientist & NLP Practitioner** with 5+ years of enterprise data experience.  
+**Junior Data Scientist & NLP Practitioner** with 10+ years of enterprise data experience.  
 I specialise in turning unstructured text and complex datasets into clear, actionable insights.  
 Based in Switzerland
 

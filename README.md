@@ -1,47 +1,54 @@
-# Hi, I'm Kate 👋
+# Hi, I'm Kate
 
-**Junior Data Scientist & NLP Practitioner** with 10+ years of enterprise data experience.  
-I specialise in turning unstructured text and complex datasets into clear, actionable insights.  
-Based in Switzerland
+Junior Data Scientist & NLP Practitioner with 10+ years of enterprise data experience.
+Based in Switzerland.
 
-I turn messy datasets into clear insights — whether that's understanding how people talk about products, why employees leave, or how commuters move through cities. My work emphasizes structured analysis, honest evaluation and models I can explain.
+I specialise in turning unstructured text and complex datasets into clear, actionable insights —
+understanding how people talk about products, what drives behaviour, and what the data is
+actually saying beneath the surface.
 
 ---
 
 ## What I work on
 
-- Natural Language Processing — sentiment analysis, topic modelling, text classification
-- Behavioral EDA — finding patterns in how people interact with systems
-- Interpretable ML — Logistic Regression, Naive Bayes, explainable features
-- Data storytelling — turning results into insights that mean something
+- **NLP** — sentiment analysis, topic modelling, text classification, named entity recognition
+- **Behavioral EDA** — finding patterns in how people interact with systems and products
+- **Interpretable ML** — Logistic Regression, Naive Bayes, models I can explain
+- **Data storytelling** — turning results into insights that mean something to a real audience
 
 ---
 
 ## Featured Projects
 
-### Sephora Reviews — NLP Analysis
-Full NLP pipeline on 50,000 beauty product reviews. VADER sentiment analysis, Naive Bayes classification with class balancing, LDA topic modelling and visualisations.
+**[The AI Wars — What 50,000 Users Really Think]()**
+Sentiment and theme analysis across ChatGPT, Claude, Gemini, Copilot & Perplexity.
+95% accuracy theme classifier. Key finding: Claude users write positively but complain about pricing.
 
-### Google Play Store Reviews — NLP Analysis
-End-to-end NLP on 12,495 app reviews. Compared rule-based VADER (58%) against Logistic Regression with TF-IDF bigrams (72%). Discovered 7 topics including pricing complaints and UI issues.
+**[BBC News Analysis — NER & Text Classification]()**
+Named Entity Recognition with spaCy + category classifier across 42,000 articles.
+75% accuracy across 6 categories. Tested entities vs full text as features (23% vs 75%).
 
-### Employee Attrition Analysis
-Behavioral investigation of workforce turnover using EDA and logistic regression. Key themes: engagement signals, commuting friction and structural drivers.
+**[Sephora Reviews — NLP Analysis]()**
+Full NLP pipeline on 50,000 beauty reviews. VADER, Naive Bayes, LDA topic modelling.
 
-### Bike Sharing Behavioral Analysis
-Explored routine mobility vs leisure patterns through temporal and environmental signals.
+**[Google Play Store Reviews — NLP Analysis]()**
+VADER (58%) vs Logistic Regression with bigrams (72%). 7 topics discovered via LDA.
 
-### Supermarket Sales Behavior
-Identified shopping rhythms and purchasing patterns using aggregation and visualisation.
+**[SMS Spam Detection]()**
+98.4% accuracy. Clean text outperformed lemmatized text — tested and compared both approaches.
+
+**[Kidney Stones Prediction]()**
+Random Forest and Logistic Regression classification on medical data.
 
 ---
 
 ## Tools
 
-Python · Pandas · NLTK · Scikit-learn · Matplotlib · Seaborn
+Python · Pandas · NLTK · spaCy · Scikit-learn · Matplotlib · Seaborn · Wordcloud
 
 ---
 
-## Current goal
+## Currently
 
-Growing my NLP skills through real-world projects while building a portfolio that shows both technical ability and business interpretation.
+Building a portfolio that bridges NLP and behavioral analytics —
+with a focus on projects that tell a real story, not just hit a metric.
